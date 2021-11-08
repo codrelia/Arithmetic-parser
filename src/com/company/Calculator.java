@@ -16,6 +16,7 @@ import java.util.Stack;
  *
  * @author Dasha Shevchenko
  */
+
 public class Calculator {
     /** Stack for storing numbers from an expression. */
     private Stack<Double> Number;
