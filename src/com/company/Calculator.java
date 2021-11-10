@@ -236,6 +236,7 @@ public class Calculator {
      * @param o The object that the current object is being compared to.
      * @return TRUE if the objects are equal and FALSE if the objects are not equal.
      */
+
     @Override
     public boolean equals(Object o) {
         Calculator that = (Calculator) o;

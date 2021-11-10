@@ -2,7 +2,6 @@ package com.company;
 
 import java.util.Scanner;
 
-// (5*2)(5-3) false false
 public class Main {
 
     public static void main(String[] args) throws Exception {
